@@ -6,7 +6,7 @@
 
 Welcome to the OpenAI API Explorer repository!
 
-`Note : This is still a WIP repository, Don't forget to star ⭐ and follow ➕ this repository for new notebooks every week! `
+`Note : This is still a WIP repository, Don't forget to star ⭐ and follow this repository for new notebooks every week! `
 
 This repository attempts to become a gateway to mastering the OpenAI APIs for natural language processing and artificial intelligence tasks. This is a work-in-progress bootcamp designed to provide you with the knowledge and skills you need to harness the full potential of the OpenAI models through their APIs.
 
@@ -33,7 +33,9 @@ Through these models, we will attempt to understand concepts of -
 
 Before you begin, make sure you have the following:
 
-- __An OpenAI API key__: To access the OpenAI API, sign up for an API key here.
+- __An OpenAI API key__: To access the OpenAI API, sign up for an API on [www.openai.com](www.openai.com) 
+
+    _You can also refer to the Day 0 Notebook for steps to create an OpenAI account and get an API key. OpenAI charges for the API calls. However, you receive credits from OpenAI for the first time sign up. For the purpose of the code here, the credits will be more than enough._
 - __Python__: Ensure that Python >=3.10.0 is installed on your system and that you can create a virtual environment for a safer and cleaner project setup.
 - __Jupyter Notebooks__: Install Jupyter Notebooks using Anaconda or pip
 
@@ -137,7 +139,7 @@ This repository is licensed under the MIT [LICENSE](./LICENSE). See the LICENSE 
 
 ## Connect with Abhinav
 
-<img src="./Assets/Images/profile.png" width=100> 
+<img src="./Assets/Images/Profile_AK.png" width=100> 
 
 Hi! I'm Abhinav, a data science and AI professional with over 15 years in the industry. Passionate about AI advancements, I constantly explore emerging technologies to push the boundaries and create positive impacts in the world. Let’s build the future, together!
 
@@ -156,7 +158,7 @@ Hi! I'm Abhinav, a data science and AI professional with over 15 years in the in
 
 <span style="font-size: 20px; color: orange"><b>You can also book a time-slot with me</b></span>
 
-[![Static Badge](https://img.shields.io/badge/Free%20Virtual%20Coffee%20(15%20min)-000000?style=for-the-badge&logo=googlecalendar&logoColor=black&color=blue)](https://topmate.io/abhinav_kimothi/544386)
+
 [![Static Badge](https://img.shields.io/badge/Resume%20Review%20(DS/AI/ML)%20(30%20min)-000000?style=for-the-badge&logo=googlecalendar&logoColor=blue&color=black)](https://topmate.io/abhinav_kimothi/544382)
 [![Static Badge](https://img.shields.io/badge/AIML%20Learning%20Path%20(30%20min)-000000?style=for-the-badge&logo=googlecalendar&logoColor=black&color=blue)](https://topmate.io/abhinav_kimothi/544380)
 [![Static Badge](https://img.shields.io/badge/Generative%20AI%20Consulting%20(60%20min)-000000?style=for-the-badge&logo=googlecalendar&logoColor=blue&color=black)](https://topmate.io/abhinav_kimothi/544379)
