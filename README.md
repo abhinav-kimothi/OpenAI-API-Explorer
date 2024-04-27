@@ -21,7 +21,8 @@ Through this repository, we will use available OpenAI models to explore -
 Through these models, we will attempt to understand concepts of -
 
 - Prompt Engineering
-- Retrieval Augmented Generation
+- Supervised Fine Tuning (SFT)
+- Retrieval Augmented Generation (RAG)
 - AI Agents (OpenAI Assitants API)
 
 ... and more
@@ -95,6 +96,9 @@ Before you begin, make sure you have the following:
 __/Notebooks/__
 
 ### Day 0 - Getting Started.ipynb 
+<code style="color : Darkorange">[Released : 28/APR/2024]</code>
+
+
 [Go to Notebook](./Notebooks/Day%200%20-%20Getting%20Started.ipynb)
 
 - Installing the OpenAI python library
@@ -104,6 +108,10 @@ __/Notebooks/__
 - Making the first API Call
 
 ### Day 1 - Text Generation with Chat Completions API 
+
+<code style="color : Darkorange">[Released : 28/APR/2024]</code>
+
+
 [Go to Notebook](./Notebooks/Day%201%20-%20Text%20Generation%20with%20Chat%20Completions%20API.ipynb)
 
 - Introduction to LLMs
@@ -118,7 +126,30 @@ __/Notebooks/__
 
 ### Day 2 - Basic Prompt Engineering 
 
-### Day 3 & Beyond 
+<code style="color : Orangered">[To be Released : 05/MAY/2024]</code>
+
+### Day 3 - OpenAI Text Embeddings
+
+<code style="color : Orangered">[To be Released : TBD]</code>
+
+### Day 4 - Retrieval Augmented Generation with OpenAI & LangChain
+
+<code style="color : Orangered">[To be Released : TBD]</code>
+
+### Day 5 - Supervised Fine-Tuning of OpenAI Models
+
+<code style="color : Orangered">To be Released : TBD]</code>
+
+### Day 6 - AI Agents with OpenAI Assistants API
+
+<code style="color : Orangered">[To be Released : TBD]</code>
+
+### Day 7 & Beyond
+
+<code style="color : Red">__[To be Decided]__</code>
+
+
+
 
 
 
