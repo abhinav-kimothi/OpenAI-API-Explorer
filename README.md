@@ -85,7 +85,7 @@ Before you begin, make sure you have the following:
     ```
     OPENAI_API_KEY=<YOUR API KEY>
 
-    ### You can also look at the Notebooks\example_dot_env file in this repo for the structure
+    ### You can also look at the Notebooks\example_dot_env file in this repo for the structure. Remeber to rename to .env
     ```
 
 
