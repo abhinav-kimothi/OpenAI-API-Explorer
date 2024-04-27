@@ -1,6 +1,5 @@
-<a href="https://www.openai.com">
-    <img src="./Assets/Images/Readme Header.png">
-</a>
+<img src="./Assets/Images/Readme Header.png">
+
 
 # OpenAI API Explorer
 
