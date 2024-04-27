@@ -1,12 +1,14 @@
 <a href="https://www.openai.com">
-    <img src="./Assets/Images/ReadMe - Header.png">
+    <img src="./Assets/Images/Readme Header.png">
 </a>
 
 # OpenAI API Explorer
 
-Welcome to the OpenAI API Explorer repository! 🚀
+Welcome to the OpenAI API Explorer repository!
 
-This repository attempts to become a gateway to mastering the OpenAI API, a powerful tool for natural language processing and artificial intelligence tasks. This is sort of a work-in-progress bootcamp designed to provide you with the knowledge and skills you need to harness the full potential of the OpenAI API.
+`Note : This is still a WIP repository, Don't forget to star ⭐ and follow ➕ this repository for new notebooks every week! `
+
+This repository attempts to become a gateway to mastering the OpenAI APIs for natural language processing and artificial intelligence tasks. This is a work-in-progress bootcamp designed to provide you with the knowledge and skills you need to harness the full potential of the OpenAI models through their APIs.
 
 Through this repository, we will use available OpenAI models to explore -
 
@@ -31,38 +33,59 @@ Through these models, we will attempt to understand concepts of -
 
 Before you begin, make sure you have the following:
 
-- An OpenAI API key: To access the OpenAI API, sign up for an API key here.
-- Python: Ensure Python is installed on your system. You can download it from the official website here.
-- Jupyter Notebooks: Install Jupyter Notebooks using Anaconda or pip:
+- __An OpenAI API key__: To access the OpenAI API, sign up for an API key here.
+- __Python__: Ensure that Python >=3.10.0 is installed on your system and that you can create a virtual environment for a safer and cleaner project setup.
+- __Jupyter Notebooks__: Install Jupyter Notebooks using Anaconda or pip
 
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
 
-```
-git clone https://github.com/your-username/openai-api-bootcamp.git
-```
+    ```
+    git clone https://github.com/your-username/openai-api-bootcamp.git
+    ```
 
 2. Navigate to the cloned repository:
 
-```
-cd openai-api-bootcamp
-``` 
+    ```
+    cd openai-api-bootcamp
+    ``` 
 
-3. Install required Python packages:
+3. It's recommended to use a virtual environment to avoid conflicts with other projects or system-wide Python packages.
 
-```
-pip install -r requirements.txt
-```
+    Run the following command to create a virtual environment named venv (you can name it anything you like):
 
-4. Store your OpenAI API key in a .env file in the Notebooks folder:
+    ```
+    python3 -m venv ./venv
+    ```
 
-```
-OPENAI_API_KEY=<YOUR API KEY>
+    Activate the Virtual Environment:
 
-### You can also look at the Notebooks\example_dot_env file in this repo for the structure
-```
+    - On Windows, activate the virtual environment by running:
+
+        ```
+        venv\Scripts\activate.bat
+        ```
+    - On macOS and Linux, activate it with:
+        ```
+        source venv/bin/activate
+        ```
+
+4. Install required Python packages:
+
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+5. Store your OpenAI API key in a .env file in the Notebooks folder:
+
+    ```
+    OPENAI_API_KEY=<YOUR API KEY>
+
+    ### You can also look at the Notebooks\example_dot_env file in this repo for the structure
+    ```
 
 
 
@@ -106,6 +129,8 @@ __Images__ : All explainer images used in the notebooks are stored in the [Asset
 
 ## Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions from the community are highly encouraged and appreciated!
+
+I'm also eager to hear back from you to guide this bootcamp. Please email me your suggestions at abhinav.kimothi.ds@gmail.com
 
 ## License
 This repository is licensed under the MIT [LICENSE](./LICENSE). See the LICENSE file for details.
