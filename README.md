@@ -128,9 +128,21 @@ __/Notebooks/__
 
 <code style="color : Orangered">[To be Released : 05/MAY/2024]</code>
 
+- What is a prompt?
+- Writing Simple Prompts
+- Writing Clear Instructions
+- Zero/One/Few Shot Learning
+- Prompt Management
+
+
 ### Day 3 - OpenAI Text Embeddings
 
 <code style="color : Orangered">[To be Released : TBD]</code>
+
+- Brief Introduction to Embeddings
+- Embeddings API
+- Text Search with Embeddings
+- Clustering with Embeddings
 
 ### Day 4 - Retrieval Augmented Generation with OpenAI & LangChain
 
@@ -144,7 +156,11 @@ __/Notebooks/__
 
 <code style="color : Orangered">[To be Released : TBD]</code>
 
-### Day 7 & Beyond
+### Day 7 - Advanced Prompt Engineering
+
+<code style="color : Red">__[To be Decided]__</code>
+
+### Day 8 onwards - TTS, Image, STT Models and beyond
 
 <code style="color : Red">__[To be Decided]__</code>
 
